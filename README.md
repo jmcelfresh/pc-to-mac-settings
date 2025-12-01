@@ -1,5 +1,5 @@
 # Make a Mac feel more like a Windows PC
-Summary of setting changes, using Mac OS Tahoe. 
+List of setting changes, using Mac OS Tahoe. 
 
 ## Display (external monitors)
 (If you're using a MacBook or an iMac you don't need to worry about this)
