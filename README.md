@@ -7,7 +7,7 @@ List of setting changes, using Mac OS Tahoe.
 Go to System Settings > Displays
 
 ### Refresh Rate
-macOS may default refresh rate to the lowest setting, which will make the computer feel slow and choppy. Set the refresh rate to the highest setting supported by your monitor. 
+macOS may default refresh rate to the lowest setting, which will make the whole UI feel slow and choppy. Set the refresh rate to the highest setting supported by your monitor. 
 
 ### Resolution
 macOS doesn't have UI scaling like Windows. If you're using an external monitor that isn't high resolution (less than 4k) you have to choose between slightly-too-small or an oversized UI.
